@@ -1,0 +1,12 @@
+# ninja log v5
+3	956	1750758138207512612	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/cuda_version.o	997c4f453f9920b4
+3	6023	1750758143279480227	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/cocoeval/cocoeval.o	cd41c5190a04de8f
+2	10067	1750758147311454482	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	da8711236866f9e7
+4	10455	1750758147699452004	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	ae5032d5ff8687bf
+1	11369	1750758148611446181	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	97cb7590b85ad962
+2	23098	1750758160331371346	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	1c0e762c2df2183d
+4	23712	1750758160943367439	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	847384006ec32588
+2	24773	1750758161999360696	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	40ad323f23baa1e6
+5	26293	1750758163527350940	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/vision.o	4512062f3ca1a9bf
+5	27917	1750758165135340672	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	505d8cd93efe540b
+3	28849	1750758166075334670	/home/bscho/works/2d-od/detectron2/build/temp.linux-x86_64-cpython-312/home/bscho/works/2d-od/detectron2/detectron2/layers/csrc/deformable/deform_conv_cuda.o	364c89d695382bc6
